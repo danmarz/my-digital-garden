@@ -18,6 +18,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 ## About me 
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
+<hr>
 
 - 🌎 I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
