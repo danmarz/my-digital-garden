@@ -38,9 +38,8 @@ footer {
 
 img {
   max-width: 100%;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
-  max-height: 75vh;
   border-radius: $border-radius;
 }
 
@@ -150,7 +149,7 @@ code {
 }
 
 .inline-badges {
-  display: inline-block;
+  display: inline;
   list-style: none;
   margin-left: -0.5em;
   margin-right: -0.5em;
