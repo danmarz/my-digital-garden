@@ -11,7 +11,7 @@ Books and courses I have learned from since January 2020.
 # September 2021
 
 * <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg  ―  CURRENTLY READING
-* <a href="https://serveiocupacio.gencat.cat/web/.content/01_soc/centres-dinnovacio-i-formacio-ocupacional-cifo/CIFO-de-Barcelona-La-Violeta/Oferta-formativa-CIFO-Violeta/Fitxes-CIFO-Violeta-2021/Fitxes-Especialitats/IFCD54FitxaWebDesenvolupamentWebBackEnd.pdf">BackEnd Web Development</a> course with <a href="https://www.linkedin.com/in/raulgarcia-profesor/">Raúl García</a>
+* <a href="https://serveiocupacio.gencat.cat/web/.content/01_soc/centres-dinnovacio-i-formacio-ocupacional-cifo/CIFO-de-Barcelona-La-Violeta/Oferta-formativa-CIFO-Violeta/Fitxes-CIFO-Violeta-2021/Fitxes-Especialitats/IFCD54FitxaWebDesenvolupamentWebBackEnd.pdf">Backend Web Development</a> course with <a href="https://www.linkedin.com/in/raulgarcia-profesor/">Raúl García</a>
 * <a href="https://www.goodreads.com/book/show/56019043-beyond-order">Beyond Order: 12 More Rules For Life</a> by Jordan B. Peterson
 * <a href="https://www.goodreads.com/book/show/55723020-dopamine-nation">Dopamine Nation: Finding Balance in the Age of Indulgence</a> by Anna Lembke
 
