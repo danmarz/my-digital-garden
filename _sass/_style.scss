@@ -148,3 +148,9 @@ code {
 .nav-menu > a {
   margin-right: 0.5em;
 }
+
+.inline-badges > li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 2px;
+}
