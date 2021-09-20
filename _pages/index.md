@@ -14,7 +14,7 @@ permalink: /
 
 # Wait, what's a digital garden?
 
-A __digital garden__, also known as ==the Zettelkasten method== is a system of effective learning through better note-taking. It's something like creating a _mind map_, but more. It's something akin to [Anki's](https://apps.ankiweb.net/) _spaced repetition_ system, but better.
+A __digital garden__, also known as the ***Zettelkasten method*** is a system of effective learning through better note-taking. It's something like creating a ==_mind map_==, but more. It's something akin to [Anki's](https://apps.ankiweb.net/) ==_spaced repetition_== system, but better.
 
 ### _It's the perfect balance of chaos and order._
 
