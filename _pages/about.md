@@ -21,14 +21,14 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 - 🌎 I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
-- [![Apple](https://img.shields.io/badge/-Apple_enthusiast-black?style=flat-square&logo=Apple)](https://www.apple.com)
+- ![Apple](https://img.shields.io/badge/-Apple_enthusiast-black?style=flat-square&logo=Apple)
 - 📚 I’m currently learning everything about Azure.
 
 
 ## Contact me 📭
 
 ![Twitter](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter)
-<li>![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)</li>
+![Linkedin](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin
 <li>![Reddit URL](https://img.shields.io/badge/-/u/pointt-black?style=flat-square&logo=reddit&link=https://www.reddit.com/user/pointt/)</li>
 <li>![Keybase PGP](https://img.shields.io/badge/-PGP:69A3CF125FBE00C7-black?style=flat-square&logo=keybase&link=https://keybase.io/danmarius/)</li>
 <li>![Email](https://img.shields.io/badge/-bonjour@danmarius.dev-black?style=flat-square&logo=Gmail)</li>
