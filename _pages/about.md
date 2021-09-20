@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-:computer: _Web Developer_ ☀️ Living in Barcelona 🇪🇸
+💻 _Web Developer_ ☀️ Living in Barcelona 🇪🇸
 
 <img align="right" width="400" height="400" src="https://github.com/dan-dm/dan-dm/blob/main/profile-image2.png?raw=true">
 
@@ -21,7 +21,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 - 🌎 I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
-- ![Apple](https://img.shields.io/badge/-black?style=flat-square&logo=Apple)Apple Enthusiast 
+- <img align="right" alt="Apple logo" src="https://img.shields.io/badge/-white?style=flat-square&logo=Apple"> Apple Enthusiast 
 - 📚 I’m currently learning everything about Azure.
 
 
