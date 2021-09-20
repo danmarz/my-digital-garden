@@ -21,7 +21,7 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 - 🌎 I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
-- ![Apple](https://img.shields.io/badge/--black?style=flat-square&logo=Apple)Apple Enthusiast
+- ![Apple](https://img.shields.io/badge/-silver?style=flat&logo=Apple)Apple Enthusiast
 - 📚 I’m currently learning everything about Azure.
 
 
