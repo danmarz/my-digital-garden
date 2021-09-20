@@ -18,13 +18,11 @@ I'm currently working on ( mostly ) backend development with technologies like J
 ## About me 
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
-<hr>
 
 - 🌎 I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
 - ![Apple](https://img.shields.io/badge/-silver?style=flat&logo=Apple) Apple Enthusiast
 - 📚 I’m currently learning everything about Azure.
-
 
 ## Contact me 📭
 
