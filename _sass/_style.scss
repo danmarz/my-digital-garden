@@ -158,8 +158,10 @@ code {
   align: right;
 }
 
-.inline-badges > li {
+.inline-badges > img {
+  max-width: 100%;
   display: inline-block;
+  margin: 0.5em;
   margin-left: 0.5em;
   margin-right: 0.5em;
 }
