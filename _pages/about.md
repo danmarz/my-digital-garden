@@ -27,13 +27,11 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 ## Contact me 📭
 <div class="inline-badges">
-	<ul>
 <li>![Twitter Badge](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius)</li>
 <li>![Linkedin Badge](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)</li>
 <li>![Reddit URL](https://img.shields.io/badge/-/u/pointt-black?style=flat-square&logo=reddit&link=https://www.reddit.com/user/pointt/)</li>
 <li>![Keybase PGP](https://img.shields.io/badge/-PGP:69A3CF125FBE00C7-black?style=flat-square&logo=keybase&link=https://keybase.io/danmarius/)</li>
 <li>![Email](https://img.shields.io/badge/-bonjour@danmarius.dev-black?style=flat-square&logo=Gmail)</li>
-	</ul>
 </div>
 
 ### My Tech Stack

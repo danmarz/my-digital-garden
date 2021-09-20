@@ -149,8 +149,15 @@ code {
   margin-right: 0.5em;
 }
 
+.inline-badges {
+  list-style: none;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  padding-left: 0;
+}
+
 .inline-badges > li {
-  display: inline;
-  list-style-type: none;
-  padding-right: 2px;
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
