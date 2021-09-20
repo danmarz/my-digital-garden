@@ -10,7 +10,7 @@ Books and courses I have learned from since January 2020.
 
 # September 2021
 
-* <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg | CURRENTLY READING
+* <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg  ―  CURRENTLY READING
 * <a href="https://serveiocupacio.gencat.cat/web/.content/01_soc/centres-dinnovacio-i-formacio-ocupacional-cifo/CIFO-de-Barcelona-La-Violeta/Oferta-formativa-CIFO-Violeta/Fitxes-CIFO-Violeta-2021/Fitxes-Especialitats/IFCD54FitxaWebDesenvolupamentWebBackEnd.pdf">BackEnd Web Development</a> course with <a href="https://www.linkedin.com/in/raulgarcia-profesor/">Raúl García</a>
 * <a href="https://www.goodreads.com/book/show/56019043-beyond-order">Beyond Order: 12 More Rules For Life</a> by Jordan B. Peterson
 * <a href="https://www.goodreads.com/book/show/55723020-dopamine-nation">Dopamine Nation: Finding Balance in the Age of Indulgence</a> by Anna Lembke
@@ -21,6 +21,7 @@ Books and courses I have learned from since January 2020.
 
 # July 2021
 
+* <a href="https://www.dropbox.com/s/ana7se8uyyk6dxp/Diploma%20aprovechamiento%20LPIC-2%20-%20Dan%20Marius%20Dumitrescu.pdf?dl=0">Linux Professional Institute LPIC 2</a> course
 * <a href="https://www.goodreads.com/book/show/30257963-12-rules-for-life">12 Rules for Life: An Antidote to Chaos</a> by Jordan B. Peterson
 * <a href="https://www.goodreads.com/book/show/329336.Zero">Zero: The Biography of a Dangerous Idea</a> by Charles Seife
 * <a href="https://www.goodreads.com/book/show/44245196-the-great-mental-models">The Great Mental Models: General Thinking Concepts</a> by Shane Parrish
@@ -28,6 +29,7 @@ Books and courses I have learned from since January 2020.
 # June 2021
 
 * <a href="https://www.credly.com/badges/fdff0b64-d194-4c9f-b0e6-525fbaa8a1d1">Microsoft DP-900: Azure Data Fundamentals</a> certification
+* <a href="https://www.dropbox.com/s/ymztlv0ep0brany/diploma-MS-900-Microsoft-365-Fundamentals.pdf?dl=0">Microsoft MS-900: Microsoft 365 Fundamentals</a> certification
 * <a href="https://www.credly.com/badges/a93be11d-2c0e-4871-9009-268656ee91d5">Cyber Security Foundation Professional Certificate - CSFPC™</a> certification
 * <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes">How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers</a> by Sönke Ahrens
 * <a href="https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein">Moonwalking with Einstein: The Art and Science of Remembering Everything</a> by Joshua Foer
@@ -47,6 +49,8 @@ Books and courses I have learned from since January 2020.
 # March 2021
 
 * <a href="https://www.credly.com/badges/53142ba6-ea7c-4de5-99c5-8b238786a997">Cisco CCNA v7</a> certification
+* <a href="https://www.dropbox.com/s/q0cn5oimrtgge39/Diploma%20DevOPS-%20Dan%20Marius.pdf?dl=0">Linux Professional Institute LPIC-OT: DevOps Tools Engineer</a> course
+* <a href="https://www.dropbox.com/s/mudkts8mchsr4ip/Diploma%20LPIC1%20-%20Dan%20Marius%20Dumitrescu.pdf?dl=0">Linux Professional Institute LPIC 1</a> course
 * <a href="https://www.goodreads.com/book/show/25744928-deep-work">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport
 * <a href="https://www.goodreads.com/book/show/38728977-the-molecule-of-more">The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity and Will Determine the Fate of the Human Race</a> by Daniel Z. Lieberman 
 * <a href="https://www.goodreads.com/book/show/49906089-ccna-200-301-official-cert-guide-volume-1">CCNA 200-301 Official Cert Guide, Volume 1</a> by Wendell Odom §
@@ -89,6 +93,7 @@ Books and courses I have learned from since January 2020.
 
 # June 2020
 
+* <a href="https://www.dropbox.com/s/3200a5ge7veehrc/Certificate_SCRUM.pdf?dl=0">SCRUM Foundation Professional Certificate (SFPC)</a> certification
 * <a href="https://www.goodreads.com/book/show/83847.Computer_Networking">Computer Networking: A Top-Down Approach</a> by James F. Kurose
 * <a href="https://www.goodreads.com/book/show/49212181-understanding-cisco-networking-technologies-volume-1">Understanding Cisco Networking Technologies, Volume 1: Exam 200-301</a> by Todd Lammle
 
