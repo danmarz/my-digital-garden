@@ -14,18 +14,20 @@ permalink: /
 
 # Wait, what's a digital garden?
 
-A __digital garden__, also known as the ***Zettelkasten method*** is a system of effective learning through better note-taking. It's something like creating a ==_mind map_==, but more. It's something akin to [Anki's](https://apps.ankiweb.net/) ==_spaced repetition_== system, but better.
+A __digital garden__, also known as the ***Zettelkasten method*** is a system of effective learning through better note-taking. 
 
 ### _It's the perfect balance of chaos and order._
 
 <img src="/assets/digital-garden.png"/>
 _Image credit: [Maggie Appleton](https://maggieappleton.com/garden-history)_
 
-his process of how to organize notes and learn effectively is also called the _Zettelkasten method_ and you can read more about this system from this __amazing__ book [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) by Sönke Ahrens.
+You learn more efficiently when you touch _chaos_, maybe some new [[javascript]] method ― or some other scary thing that jumps at you __from-the-unknown__, but then you back-pedal to your _comfort zone_ where __what you KNOW__ lives and you try to figure out where _exactly_ does the new thing fit, and how it is connected to your existing knowledge, thus structuring knowledge as you would a blog post or an essay. 
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+With a Zettelkasten system this mental process is copied, hopefully sped up and results in an inter-linked lattice of notes, much like how our brain collects facts and memories (think mind maps!). By also periodically reviewing notes (when linking new knowledge) you get the benefit of _spaced repetition_ which is scientifically proven to be the best method of remembering facts!
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+I first learned about this system from this __amazing__ book [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) by Sönke Ahrens, I highly recommend it. Here are some excellent articles that actually do [Niklas Luhmann and his Zettelkasten](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6#:~:text=Niklas%20Luhmann%20and%20his%20Zettelkasten) method some justice, and explain the use of my favorite [Personal Knowledge Management (PKM) application ― Obsidian](https://dev.to/bretzawilski/using-zettelkasten-and-obsidian-to-learn-more-effectively-277e).✌️
+
+_By the way, this digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template)._
 
 <style>
   .wrapper {
