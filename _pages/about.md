@@ -21,13 +21,13 @@ I'm currently working on ( mostly ) backend development with technologies like J
 
 - 🌎 I'm from Romania 🇷🇴
 - 🖥️ VIM / Bash
-- ![Apple](https://img.shields.io/badge/-Apple_enthusiast-white?style=flat-square&logo=Apple)
+- ![Apple](https://img.shields.io/badge/--black?style=flat-square&logo=Apple)Apple Enthusiast
 - 📚 I’m currently learning everything about Azure.
 
 
 ## Contact me 📭
 
-<a href="https://twitter.com/dan_marius">![Twitter](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius/)</a>
+<a style="href="https://twitter.com/dan_marius">![Twitter](https://img.shields.io/badge/-@dan_marius-black?style=flat-square&logo=twitter&link=https://twitter.com/dan_marius/)</a>
 <a href="https://www.linkedin.com/in/danmariusdumitrescu/">![Linkedin](https://img.shields.io/badge/-danmariusdumitrescu-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/danmariusdumitrescu/)</a>
 <a href="https://www.reddit.com/user/pointt/">![Reddit URL](https://img.shields.io/badge/-/u/pointt-black?style=flat-square&logo=reddit&link=https://www.reddit.com/user/pointt/)</a>
 <a href="https://keybase.io/danmarius/">![Keybase PGP](https://img.shields.io/badge/-PGP:69A3CF125FBE00C7-black?style=flat-square&logo=keybase&link=https://keybase.io/danmarius/)</a>
