@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/danmarius
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danmarius.dev
+  * I am danmarius (https://keybase.io/danmarius) on keybase.
+  * I have a public key with fingerprint ACC2 2FC9 16B2 C732 5247  075F 69A3 CF12 5FBE 00C7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d231f27d5dc8a2ae0c3a707f5d36c7f499a6ea0839e3f9d8deb913560610c4b30a",
+      "fingerprint": "acc22fc916b2c7325247075f69a3cf125fbe00c7",
+      "host": "keybase.io",
+      "key_id": "69a3cf125fbe00c7",
+      "kid": "0101d231f27d5dc8a2ae0c3a707f5d36c7f499a6ea0839e3f9d8deb913560610c4b30a",
+      "uid": "86236015dad213d7ea18ae36fba81319",
+      "username": "danmarius"
+    },
+    "merkle_root": {
+      "ctime": 1632229245,
+      "hash_meta": "f059905815cf92224ab9a2fb526d938f52916cf32d6395c716f16c047bc57238",
+      "seqno": 20809304
+    },
+    "revoke": {
+      "sig_ids": [
+        "5336a10d1e22e93e2c78d3b6f4272514327db1307a094ac52a37793ce686b5820f"
+      ]
+    },
+    "service": {
+      "hostname": "danmarius.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1632229253,
+  "expire_in": 157680000,
+  "prev": "c1af3559041a3491db894db71a46d21116cfa83643f99b9f074545102f832e85",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK1AnicrZNdaBxVGIY31apZLQpKRWmxHRSjxnj+Z87qSkKM0poGgwraGobzu5lu
+dmedmWxNQ1qlNrZqLwQR6m8gXogIloiyVAs2DV5EbxRLpb1QL2oTWyUNll6I4pmg
+CMVL5+Zw5rzf+73zfHPm1lxWKLZtPLQ8eHagdVvbl7NjowWx6cTecU/GeswrjXtV
+s7KYEW3SLKxG2it5AAKoEYYW+ZpqFQgkDFBY+MC3VGOmfEs4F8wIEGBusOU60EZy
+iCkDDAJFJAbC6/RsVK+YpJFE9czZCqUQsopDJpHyMaKIOEdqGRdYWYiolQYA5bvC
+4TjNK1w4KVLTFcXunduEK/H+Q/8/5x5dsQsYwgxAqoVGEGvfCBgIg5mVIoAY8lyY
+mqQuasaptajXRBKNpt5Ep1czSXXEhEkcZzldlUW5BjKMEOKIUPeFIh0OayYTrtQC
+yjmgAaTKcqcgQnKBrKSIaY4DS5FjpixGmmFOlQ+ZdXtAfKmoj3DggqTm6XrslRAI
+AMeAuAiJacZVk3dPo4oDl3qlbR7FmAkINDQIGY6Nm0OgsWSWIB9RSLAjJyEGvgCc
+CEWRwL7PsTIsYJIGCFhvaCLvljQjtWKeT+pSAl3aNF2mRhJnsYpH3NFwljXSUk4m
+G2vk2h1Ghn+7hDKqa/ejuIqmSdIorjtSTnkJNIo7PfNMI0pMGOUK6rMAuCfv49qV
+PAWFxZRyQKDAhEMtA0609KEgzA0Q5ghFgBlxc+eSW+ATSigEyAYYmYD+SxG6+WSi
+4jwdurrIRhPjTcx+/tTlhbZi4YrVq/IbVCi2X/fPvbpl4KrCm8efPPLds2eSXyvX
+39GXPmHi35Y+/LN98K6DkwfDXWL35ntPbnjtoYXC1ye3jLQf+rh38aOJobdXl/c8
+TC7+0fXAzNyZnajVeKO69OpxsWdj26kXevfN3z1/zVBPuG7DclnV1vZsP33ul9io
+ju36sXfff/7K289fKG+9kW3ZDybH15zjh8vN+fv6BrL102+9svDpUu/UUtizrdx9
+08871k31z7731dQ3czeI12eOde9evzz3Umf/tYsteeqdC91br/5sYf6TOx8p9v90
+8xcv/l6utL490oEPHB638HTr/KPh9E6++WjH0em9k9/fc8KsXbWv5+UfHzw2uOu5
+s48fuL/ZN/PBph96F/cXuy/e+hczCH4k
+=2T/n
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danmarius
+
+==================================================================
