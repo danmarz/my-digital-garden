@@ -28,6 +28,7 @@ The above is not correct. Weird, right? Everything SEEMS to be an object, but it
 Functions, however are fully fledged objects and inherit from `Object`, actually from `Object.prototype`. Functions therefore can do anything objects can, *including having properties*.
 
 ## Expressions are questions that JS can answer  ― like ( 2 + 2), in the only way it knows how  ― with *values*. 
+
  Expressions always result in a single value, i.e. (2 + 2) -> 4
  
  ## On classes
@@ -60,3 +61,5 @@ Functions, however are fully fledged objects and inherit from `Object`, actually
  `const result = copyArrayAndManipulate([1,2,3], input => input*2)`
  
  As seen above, *anonymous* and *arrow* functions improve immediate legibility of the code, but can cause confusion if they are not well understood.
+ 
+ ![[promises]]

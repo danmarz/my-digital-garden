@@ -18,7 +18,7 @@ After the function finished executing, all its local memory gets deleted (*garba
 This is the most powerful yet challenging concept in JS. It basically means that when a function is *returned* from ANOTHER function, it snapshots and carries it's environment state with it (i.e. the backpack 🎒) which means the function can access a *hidden* VE with the variables it controls AND THIS PERSISTS through multiple calls! 
 
 Closure enables:
-- Professional-grade functions like *once* and *[[memoization|memoize]]*
+- Professional-grade functions like *[[once]]* and *[[memoization|memoize]]*
 - Node's module pattern (the CommonJS pattern)
 - Functional Programming (techniques like partial application, currying & monads)
 - Building [[iterators]]
