@@ -67,9 +67,12 @@ This is the way we *used* to use browser APIs, and it kind of still is under-the
 ## Promises are 2-pronged 'façade' functions that both:
 
 - Initiate background web browser work and
-- Return a placeholder object (promise) immediately in [[javascript]] memory which has two built in properties *value: ....* which is an empty property for now (it's where the fetch request will store the data it recieves over the internet (as JSON?)) and an empty array called *onFulfilled: \[ \]* which is a **HIDDED** property
+- Return a placeholder object (promise) immediately in [[javascript]] memory which has two built in properties *value: ....* which is an empty property for now (it's where the fetch request will store the data it recieves over the internet (as JSON?)) and an empty array called *onFulfillment: \[ \]* which is a **HIDDED** property which you can only access (append) with *.then*. 
+  Also returned is ANOTHER hidden array called *onRejection: \[ \]* which will run in case ANY function returns an error (instead of returning *onFulfillment:* ). A function can be passed to this hidden array in two ways:
+  1. using *.catch( )* <- after *.then( )*
+  2. passing the error catching function as the second parameter to the `futureData.then(resolve, REJECT)` function. resolve = *onFulfillment*, reject = *onRejection*.
 
-Both the web API and the JS exec context are intimately linked via the placeholder promise object, and unlike with [[callbacks]], there isn't any function passed as to be run *onCompletion*, instead any functions are to be *.then* executed on the promise object (when the request is fulfilled). i.e. `futureData.then(display);` this .then saves the display(data) function inside the hidden array called onFulfilled on the promise object and when the request is completed it is automatically passed the request data as argument and *automatically* run. `display(futuredata.value)`
+Both the web API and the JS exec context are intimately linked via the placeholder promise object, and unlike with [[callbacks]], there isn't any function passed as to be run *onCompletion*, instead any functions are to be *.then* executed on the promise object (when the request is fulfilled). i.e. `futureData.then(display);` this .then saves the display(data) function inside the hidden array called onFulfillment on the promise object and when the request is completed it is automatically passed the request data as argument and *automatically* added to the [[Microtask queue]] to be next eligible to be run by the [[event loop]]. `display(futuredata.value)`
 
 Example promise:
 
@@ -85,3 +88,10 @@ console.log("Me first!");
 ```
 
 ![[fetch]] = the most powerful 5 letter word in [[javascript]]! 
+
+#### Promises, Web APIs, the Callback and Microtask Queues and Event Loop enable:
+
+**Non-blocking applications**: We don't have to wait in the single thread and don't block further code from running.
+**However long it takes**: We cannot predict when our browser feature's work will finish so we let JS handle automatically running the funtion on its completion
+**Web applications**: Asynchronous JS is the backbone of the modern web - letting us build fast 'non-blocking' applications
+

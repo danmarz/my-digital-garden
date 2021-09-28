@@ -2,7 +2,7 @@
 Title: Callback functions in JS
 ---
 
-## Callback functions in JS
+## Callback functions in [[javascript]]
 
 Callback functions are functions passed as input(arguments) to other functions. => baby 🐣 functions
 
