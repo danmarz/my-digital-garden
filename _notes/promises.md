@@ -95,3 +95,17 @@ console.log("Me first!");
 **However long it takes**: We cannot predict when our browser feature's work will finish so we let JS handle automatically running the funtion on its completion
 **Web applications**: Asynchronous JS is the backbone of the modern web - letting us build fast 'non-blocking' applications
 
+Promises are one way to deal with asynchronous code, without getting stuck in *callback hell*.
+
+**Async functions** use promises behind the scenes, so understanding how promises work is fundamental to understanding how [[Async - Await]] work.
+
+## Common errors
+
+### Uncaught TypeError: undefined is not a promise
+
+If you get the `Uncaught TypeError: undefined is not a promise` error in the console, make sure you use `new Promise()` instead of just `Promise()`
+
+### UnhandledPromiseRejectionWarning
+
+This means that a promise you called rejected, but there was no `catch` used to handle the error. Add a `catch` after the offending `then` to handle this properly.
+

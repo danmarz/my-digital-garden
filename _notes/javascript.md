@@ -23,7 +23,7 @@ JavaScript is a loosely typed language, meaning you don’t have to specify what
 ## ~~Everything is an object in JavaScript~~
 > In JavaScript, _everything_ is an object, even when it’s something else. Functions are objects. Strings are objects. Numbers are objects. Arrays are objects. Objects are objects. **You can assign properties to basically anything in JS** 
 
-The above is not correct. Weird, right? Everything SEEMS to be an object, but it's just because of the inner workings of JS, i.e. creaing a wrapper `String` object from `s`, equivalent to using `new String(s)`. This also happens to Numbers and Booleans.
+The above is not correct. Weird, right? Everything SEEMS to be an object, but it's just because of the inner workings of JS, i.e. creating a wrapper `String` object from `s`, equivalent to using `new String(s)`. This also happens to Numbers and Booleans.
 
 Functions, however are fully fledged objects and inherit from `Object`, actually from `Object.prototype`. Functions therefore can do anything objects can, *including having properties*.
 
@@ -63,3 +63,5 @@ Functions, however are fully fledged objects and inherit from `Object`, actually
  As seen above, *anonymous* and *arrow* functions improve immediate legibility of the code, but can cause confusion if they are not well understood.
  
  ![[promises]]
+ 
+ 
