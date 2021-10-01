@@ -19,3 +19,11 @@ You learn more efficiently when you touch _chaos_, maybe some new [[javascript]]
 With a Zettelkasten system this mental process is copied, hopefully sped up and results in an inter-linked lattice of notes, much like how our brain collects facts and memories (think mind maps!). By also periodically reviewing notes (when linking new knowledge) you get the benefit of _spaced repetition_ which is scientifically proven to be the best method of remembering facts!
 
 I first learned about this system from this __amazing book:__ [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) by Sönke Ahrens, I highly recommend it. Here are some excellent articles that actually do [Niklas Luhmann and his Zettelkasten](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6#:~:text=Niklas%20Luhmann%20and%20his%20Zettelkasten) method some justice, and explain the use of my favorite [Personal Knowledge Management (PKM) application](https://dev.to/bretzawilski/using-zettelkasten-and-obsidian-to-learn-more-effectively-277e) ― [Obsidian](https://obsidian.md).✌️
+
+{% include notes_graph.html %}
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
