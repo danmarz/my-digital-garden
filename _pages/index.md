@@ -9,12 +9,12 @@ permalink: /
 ## I'm Dan.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  This <span style="font-weight: bold">"digital garden" 🌱</span> is a place where I share my notes, thoughts and learning process. 
+  This <span style="font-weight: bold">"ZK digital garden 🌱"</span> is a place where I share my notes, thoughts and learning process. 
 </p>
 
 # Wait, what's a digital garden?
 
-A __digital garden__, also known as the ***Zettelkasten method*** is a system of effective learning through better note-taking. 
+A __digital garden__, also known as the ***Zettelkasten ( ZK ) method*** is a system of effective learning through better note-taking. 
 
 ### _It's the perfect balance of chaos and order._
 
