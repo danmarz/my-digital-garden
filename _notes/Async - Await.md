@@ -6,7 +6,7 @@ Title: Async / Await
 
 Make code look like it's synchronous, but it's asynchronous and non-blocking behind the scenes.
 
-An async function returns a promise, like in this example:
+An async function returns a [[promises|promise]], like in this example:
 
 ```js
 const doSomethingAsync = () => {

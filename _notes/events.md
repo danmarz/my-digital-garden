@@ -12,7 +12,7 @@ const eventEmitter = new EventEmitter();
 ```
 
 This object exposes, among many others, the `on` and `emit` methods.
--   `on` is used to add a callback function that's going to be executed when the event is triggered
+-   `on` is used to add a [[callbacks|callback]] function that's going to be executed when the event is triggered
 ```js
 eventEmitter.on('start', () => {
   console.log('started')
