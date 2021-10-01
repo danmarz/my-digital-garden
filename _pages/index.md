@@ -12,7 +12,7 @@ permalink: /
   This <span style="font-weight: bold">"digital garden 🌱"</span> is a place where I share my notes, thoughts and learning process. 
 </p>
 
-### Currently, I'm learning [[javascript]] for back-end development with Node.js.
+<p>Currently, I'm learning [[javascript]] for back-end development with Node.js.</p>
 
 <br/>
 
