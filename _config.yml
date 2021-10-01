@@ -1,4 +1,4 @@
-title:               ZK | dan m.
+title:               dan m.
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json', '_notes/TEMPLATES/*']
 # You may need to change the base URL depending on your deploy configuration.
