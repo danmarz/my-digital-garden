@@ -9,11 +9,12 @@ permalink: /
 ## I'm Dan.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  This <span style="font-weight: bold">"blog / ZK / digital garden 🌱"</span> is a place where I share my notes, thoughts and learning process. 
+  This <span style="font-weight: bold">"digital garden 🌱"</span> is a place where I share my notes, thoughts and learning process. 
 </p>
 
 ### Currently, I'm learning [[javascript]] for back-end development with Node.js.
 
+<br/>
 
 > This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
