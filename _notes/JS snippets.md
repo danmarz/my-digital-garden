@@ -2,6 +2,7 @@
 Title: JS snippets
 ---
 
+
 # [[javascript]] Timers
 ## setTimeout()
 
