@@ -108,7 +108,7 @@ module.exports = {			// 4 main concepts: entry, output, loaders, plugins
 }
 ```
 
-# JS named and default imports and exports
+# [[javascript]] named and default imports and exports
 ```js
 import output from './models/Search';	// for export default _func/class/literal_
 import { renderDetails as rd, 
@@ -133,3 +133,22 @@ async function testApi(query){
 	}
 }
 ```
+
+## Use labels for long functions
+
+1. Define, long convoluted function names in a classSelector.js file within an _includes_ folder:
+```js
+export const classNames = {
+
+ formInput:document.querySelector('.top-search__input'),
+}
+```
+
+2. Then import the file in the _views_, _models_ or _controllers_ where needed:
+```js
+import { classNames } from "../includes/classSelector";
+export const getFormInput = () => classNames.formInput.value;
+```
+3. ??? profit!
+
+
