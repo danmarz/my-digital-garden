@@ -14,7 +14,7 @@ A __digital garden__, also known as the ***Zettelkasten ( ZK ) method*** is a sy
 <img src="/assets/digital-garden.png"/>
 _Image credit: [Maggie Appleton](https://maggieappleton.com/garden-history)_
 
-You learn more efficiently when you touch _chaos_, maybe some new [[javascript]] method ― or some other scary thing that jumps at you __from-the-unknown__, but then you back-pedal to your _comfort zone_ where __what you KNOW__ lives and you try to figure out where _exactly_ does the new thing fit, and how it is connected to your existing knowledge, thus structuring knowledge as you would a blog post or an essay. Taking fleeting notes is easy, writing a book is hard. The optimal zone for learning is in the middle.🎯
+You learn more efficiently when you touch _chaos_, maybe how the [[Microtask queue]] works in JS ― or some other scary thing that jumps at you __from-the-unknown__, but then you back-pedal to your _comfort zone_ where __what you KNOW__ lives and you try to figure out where _exactly_ does the new thing fit, and how it is connected to your existing knowledge, thus structuring knowledge as you would a blog post or an essay. Taking fleeting notes is easy, writing a book is hard. The optimal zone for learning is in the middle.🎯
 
 With a Zettelkasten system this mental process is copied, hopefully sped up and results in an inter-linked lattice of notes, much like how our brain collects facts and memories (think mind maps!). By also periodically reviewing notes (when linking new knowledge) you get the benefit of _spaced repetition_ which is scientifically proven to be the best method of remembering facts!
 
