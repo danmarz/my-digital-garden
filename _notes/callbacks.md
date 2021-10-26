@@ -21,7 +21,7 @@ doWork(multiplyByTwo(8), 3);
 
 ```
 
-A callback is a simple function that's passed as a value to another function, and will only be executed when the event happens. We can do this because JavaScript has first-class functions, which can be assigned to variables and passed around to other functions (called **higher-order functions**)
+A callback is a simple function that's passed as a value to another function, and will only be executed when the event happens. We can do this because JavaScript has first-class functions, which can be assigned to variables and passed around to other functions (called **[[higher-order functions]]**)
 
 It's common to wrap all your client code in a `load` event listener on the `window` object, which runs the callback function only when the page is ready:
 
