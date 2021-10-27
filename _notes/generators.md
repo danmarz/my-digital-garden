@@ -89,7 +89,7 @@ futureData.then(doWhenDataReceived)
 
 We get to control when we return back to `createFlow` and continue executing ― by setting up the trigger to do so (`returnNetElement.next()`) to be run by our function that was triggered by the promise (`futureData`) resolution (`.then`) (when the value returned from twitter).
 
-## [[Async - Await]] simplifies all this and finally fixes the inversion of control problem of callbacks
+## [[Async Await]] simplifies all this and finally fixes the inversion of control problem of callbacks
 
 ```js
 async function createFlow(){

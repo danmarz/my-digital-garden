@@ -97,7 +97,7 @@ console.log("Me first!");
 
 Promises are one way to deal with asynchronous code, without getting stuck in *callback hell*.
 
-**Async functions** use promises behind the scenes, so understanding how promises work is fundamental to understanding how [[Async - Await]] work.
+**Async functions** use promises behind the scenes, so understanding how promises work is fundamental to understanding how [[Async Await]] work.
 
 ## Common errors
 
