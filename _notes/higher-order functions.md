@@ -46,7 +46,7 @@ const withCount = fn => {
 	}
 }
 
-const add = (x, y) => x +y
+const add = (x, y) => x + y
 
 const countedAdd = withCount(add)
 
