@@ -8,9 +8,12 @@ permalink: /learning
 
 § ― selected sections
 
+# November 2021
+* <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg  ―  currently 📖
+
 # October 2021
 
-* <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg  ―  currently 📖
+* <a href="https://www.goodreads.com/book/show/56255902-sql-in-easy-steps-4th-edition">SQL in easy steps, 4th edition</a> by Mike McGrath
 * <a href="https://frontendmasters.com/courses/javascript-new-hard-parts/">Frontend Masters - JavaScript: The New Hard Parts</a> by Will Sentance
 * <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">Frontend Masters - JavaScript: The Hard Parts, v2</a> by Will Sentance
 

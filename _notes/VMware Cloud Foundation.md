@@ -12,6 +12,6 @@ VMware Cloud Foundation can be self-deployed on compatible hardware or preloaded
 
 # ---
 
-Tags: #source/book📚 #quotes 
-Topics: [\[\Einstein\]\] [\[\science\]\] [\[\creativity\]\]
+Tags: 
+Topics: 
 
