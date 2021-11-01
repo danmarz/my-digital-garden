@@ -38,10 +38,21 @@ x = x ?? y;
 ```
 
 3. **When will I use this?**
-	-	
+
+```js
+function config(options) {
+  options.duration ??= 100;
+  options.speed ??= 25;
+  return options;
+}
+
+config({ duration: 125 }); // { duration: 125, speed: 25 }
+config({}); // { duration: 100, speed: 25 }
+```
 
 # ---
 
 Tags: #
+
 Topics: [[javascript]]
 
