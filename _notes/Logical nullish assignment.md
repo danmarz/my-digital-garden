@@ -1,20 +1,24 @@
 ---
-Title: Logical nullish assignment (??=)
+Title: Logical nullish assignment
 ---
-
+# Logical nullish assignment (??=)
 1. **How can I use this?**
-	-	`expr1 ??= expr2`
-	```js
-	const a = { duration: 50 };
 
-	a.duration ??= 10;
-	console.log(a.duration);
-	// expected output: 50
+Basic syntax:
+`expr1 ??= expr2`
 
-	a.speed ??= 25;
-	console.log(a.speed);
-	// expected output: 25
-	```
+Example:
+```js
+const a = { duration: 50 };
+
+a.duration ??= 10;
+console.log(a.duration);
+// expected output: 50
+
+a.speed ??= 25;
+console.log(a.speed);
+// expected output: 25
+```
 
 2. **Why must I use this?**
 
