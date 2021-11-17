@@ -73,4 +73,49 @@ window.addEventListener('load', () => {
 
 ```
 
-Starting with ES6, JavaScript introduced several features that help us with asynchronous code that do not involve using callbacks: [[promises]] (ES6) and [[Async Await]] (ES2017).
+Starting with ES6, JavaScript introduced several features that help us with asynchronous code that do not involve using callbacks: [[promises]] (ES6) and [[Async Await]] (ES2017), so you might want to avoid using callbacks but KNOW how they work under-the-hood.
+
+Callbacks used to be the most popular way to express and handle asynchronous functions in JavaScript programs. However, if you are still using it, I hope you already know the pain of handling multiple nested callbacks.
+
+For example, the following code contains 4 callback functions, and it will become even harder as the code start to grow.
+
+```js
+function1(function (err, data) {   
+  ...    
+  function2(user, function (err, data) {  
+    ...  
+     function3(profile, function (err, data) {  
+      ...  
+      function4(account, function (err, data) {  
+        ....  
+      });   
+    });   
+  });  
+});
+```
+
+As a solution, ES6 and ES7 introduced, Promises and Async/Await to handle asynchronous functions, and they are much easier to use and makes your code easily understandable to others.
+
+But, if you use Promises or Async/Await, your code will be clean and much easy to understand.
+
+```js
+// Promises
+function1()   
+.then(function2)   
+.then(function3)   
+.then(function4)   
+.catch((err) => console.error(err));
+
+// Async/Awaitasync 
+
+function myAsyncFunction() {    
+try {      
+  const data1= await function1();      
+  const data2= await function2(data1);      
+  const data3= await function3(data2);      
+  return function4(data3);    
+}   
+catch (e) {      
+  console.error(err);    
+}}
+```

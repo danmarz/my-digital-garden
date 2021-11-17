@@ -40,3 +40,10 @@ If branch already exists on the remote repo:
 
 ## [[GitHub workflow]] & working with others
 ![[GitHub workflow]]
+
+### Removing an .env file from GIT history
+1. First, add the file to `.gitignore` file
+2. Remove the file from existing git repo `git rm -r --cached .env` 
+3. To completely remove a file from Git history:
+	- `git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch .env" HEAD`
+	- `git push --force`

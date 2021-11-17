@@ -16,5 +16,6 @@ Title:
 # ---
 
 Tags: #source/book📚 #quotes 
+
 Topics: [\[\Einstein\]\] [\[\science\]\] [\[\creativity\]\]
 

@@ -2,7 +2,7 @@
 title: Understanding `this` in JavaScript
 ---
 
-# Understanding `this` in JavaScript - DEV Community
+# Understanding `this` in JavaScript
 
 If you're coming to JavaScript from an Object-Oriented language like Ruby or Python, the concept of `this` in JavaScript might give you a little bit of trouble. It turns out, `this` in JavaScript is a little more complex than we might think assuming it to work similar to `self`.
 

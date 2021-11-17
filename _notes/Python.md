@@ -35,6 +35,17 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those! 
 ```
 
+### Preserve list order while removing duplicates
+```py
+lst = [12,24,35,24,88,120,155,88,120,155]
+
+oset = dict.fromkeys(lst).keys()
+# dict.fromkeys(lst) == {12: None, 24: None, 35: None, 88: None, 120: None, 155: None}
+# dict.fromkeys(lst).keys() ==  dict_keys([12, 24, 35, 88, 120, 155])
+
+print(list(oset))
+# [12, 24, 35, 88, 120, 155]
+```
 # ---
 
 Tags: #coding 

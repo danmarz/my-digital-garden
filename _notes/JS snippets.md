@@ -480,3 +480,4 @@ You can send this signal from inside the program, in another function:
 ```js
 process.kill(process.pid, 'SIGTERM')
 ```
+

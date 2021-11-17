@@ -10,6 +10,7 @@ permalink: /learning
 
 # November 2021
 * <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg  ―  currently 📖
+* <a href="https://frontendmasters.com/courses/api-design-nodejs/">Frontend Masters - API Design in Node.js (using Express & Mongo)</a> by Scott Moss
 
 # October 2021
 
