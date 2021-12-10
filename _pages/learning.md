@@ -8,8 +8,11 @@ permalink: /learning
 
 § ― selected sections
 
+# December 2021
+* <a href="https://www.goodreads.com/book/show/3735293-clean-code">Clean Code: A Handbook of Agile Software Craftsmanship</a> by Robert "Uncle Bob" C. Martin  ―  currently 📖
+
 # November 2021
-* <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg  ―  currently 📖
+* <a href="https://www.goodreads.com/book/show/41181911-super-thinking">Super Thinking: The Big Book of Mental Models</a> by Gabriel Weinberg
 * <a href="https://frontendmasters.com/courses/api-design-nodejs/">Frontend Masters - API Design in Node.js (using Express & Mongo)</a> by Scott Moss
 
 # October 2021
