@@ -9,7 +9,9 @@ permalink: /learning
 § ― selected sections
 
 # December 2021
-* <a href="https://www.goodreads.com/book/show/3735293-clean-code">Clean Code: A Handbook of Agile Software Craftsmanship</a> by Robert "Uncle Bob" C. Martin  ―  currently 📖
+* <a href="https://www.goodreads.com/book/show/54375336-the-coding-career-handbook-guides-principles-strategies-and-tactics">The Coding Career Handbook. Guides, Principles, Strategies, and Tactics – from Code Newbie to Senior Dev</a> by Shawn Swyx Wang  ―  currently 📖
+* <a href="https://www.goodreads.com/book/show/3735293-clean-code">Clean Code: A Handbook of Agile Software Craftsmanship</a> by Robert "Uncle Bob" C. Martin
+* <a href="https://www.dropbox.com/s/8kfiggkkqklo0r6/Diploma%20aprofitament%20PCAP_20.2_Dan%20Marius%20Dumitrescu.pdf?dl=0">PCAP – Certified Associate in Python Programming Course</a> @<a href="https://www.pue.es/cursos/python-institute/fundamentos-programacion-python-curso-oficial-python-institute-online">PUE</a>
 * <a href="https://www.udemy.com/course/nestjs-the-complete-developers-guide/">NestJS: The Complete Developer's Guide</a> by Stephen Grider
 * <a href="https://www.udemy.com/course/nestjs-zero-to-hero/">NestJS Zero to Hero - Modern TypeScript Back-end Development</a> by Ariel Weinberger
 
