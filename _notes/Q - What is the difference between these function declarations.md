@@ -1,5 +1,5 @@
 ---
-Title: What is the difference between these: `function Car(){}`, `const car = Car()`, and `const car = new Car()`
+Title: What is the difference between these function declarations
 ---
 
 # What is the difference between these: `function Car(){}`, `const car = Car()`, and `const car = new Car()`
