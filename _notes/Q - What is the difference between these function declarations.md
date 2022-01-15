@@ -13,5 +13,4 @@ It's also worth noting that we could do something like `const car = () => {}` or
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
-
+Topics: [[Interview Qs]]

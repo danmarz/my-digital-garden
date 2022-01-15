@@ -34,5 +34,5 @@ Credit: javascript.info
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

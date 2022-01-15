@@ -16,4 +16,4 @@ Not only does it improve performance on the client, but it also reduces the load
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]

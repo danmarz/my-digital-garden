@@ -24,5 +24,5 @@ if (age >= 21) {
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

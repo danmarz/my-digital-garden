@@ -28,5 +28,5 @@ Jake Archibald also gave an equally excellent talk on the topic.
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

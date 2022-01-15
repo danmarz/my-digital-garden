@@ -20,6 +20,6 @@ The `same-origin` policy only applies to the client. If there is a resource you 
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 
 

@@ -54,5 +54,5 @@ In interviews, what you will most often be tested on is:
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

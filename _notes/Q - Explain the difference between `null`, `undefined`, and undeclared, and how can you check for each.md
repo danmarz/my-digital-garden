@@ -80,5 +80,5 @@ typeof x === 'undefined'; // true
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

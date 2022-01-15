@@ -27,5 +27,4 @@ Other notable differences include: arrow functions don't have access to the `arg
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
-
+Topics: [[Interview Qs]]

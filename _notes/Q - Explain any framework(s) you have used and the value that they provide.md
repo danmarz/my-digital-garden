@@ -35,5 +35,5 @@ For example, let's consider React.
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

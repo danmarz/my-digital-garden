@@ -14,6 +14,6 @@ Another option to use new features and syntax is to transpile code. Webpack or a
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 
 

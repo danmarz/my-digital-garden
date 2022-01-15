@@ -32,4 +32,4 @@ Possible points to mention:
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]

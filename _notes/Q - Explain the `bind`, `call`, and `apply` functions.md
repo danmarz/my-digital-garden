@@ -66,5 +66,5 @@ Sometimes these methods are simply used to execute a function, and if the `this`
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

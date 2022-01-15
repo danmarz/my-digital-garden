@@ -39,5 +39,5 @@ We should be careful when adding variables to the global object because it can c
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

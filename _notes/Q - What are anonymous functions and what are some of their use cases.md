@@ -34,5 +34,5 @@ If a variable is declared in the global scope, it is available to all the code i
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

@@ -15,5 +15,5 @@ When we talk about making an API request on the client, it is doing so through A
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

@@ -30,5 +30,5 @@ Ways to speed up your application include:
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

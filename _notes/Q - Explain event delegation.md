@@ -13,5 +13,5 @@ On the other hand, you could attach one `onclick` handler to the `<ul>` element.
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

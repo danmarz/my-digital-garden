@@ -22,6 +22,6 @@ The advantages of strict mode are:
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 
 

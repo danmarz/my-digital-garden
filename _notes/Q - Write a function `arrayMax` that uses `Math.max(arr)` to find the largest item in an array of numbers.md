@@ -41,5 +41,5 @@ arrayMax([2, 4, 10, 20, 100]); // 100
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

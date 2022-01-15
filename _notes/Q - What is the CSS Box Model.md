@@ -20,5 +20,5 @@ The `box-sizing` property is used to indicate how we want to determine the size 
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

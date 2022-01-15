@@ -11,5 +11,5 @@ Title: What is client-side rendering (CSR), server-side rendering (SSR), and sta
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

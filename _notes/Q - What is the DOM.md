@@ -16,5 +16,5 @@ The DOM can be represented using any programming language (since at its core, it
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

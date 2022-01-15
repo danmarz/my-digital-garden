@@ -60,5 +60,5 @@ false ?? true        returns false
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

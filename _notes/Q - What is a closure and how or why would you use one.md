@@ -35,5 +35,5 @@ newFunctionWithPermanentAccess(); // storedValue = 3;
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

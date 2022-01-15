@@ -15,5 +15,5 @@ We can't discuss asynchronous JavaScript without going deeper into the `Promise`
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

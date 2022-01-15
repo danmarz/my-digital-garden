@@ -35,5 +35,5 @@ It's worth noting that empty arrays `[]` and empty objects `{}` are considered t
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

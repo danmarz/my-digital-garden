@@ -36,5 +36,5 @@ console.log(greet, friend) // This never runs because the code crashed with an e
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

@@ -41,5 +41,5 @@ These would all return `false` if the `===` operator was used.
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

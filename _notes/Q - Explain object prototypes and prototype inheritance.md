@@ -113,5 +113,5 @@ If we wanted to use inheritance, we could use the `extends` syntax, like `class 
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

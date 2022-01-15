@@ -106,5 +106,5 @@ console.log(obj); // { hello: 'world' }
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

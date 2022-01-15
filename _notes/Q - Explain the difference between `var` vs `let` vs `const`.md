@@ -74,5 +74,5 @@ console.log(blockScoped) // ReferenceError
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 

@@ -23,5 +23,5 @@ The series of steps that are followed until the IP address is discovered:
 
 Tags: #coding #interview
 
-Topics: [[javascript]] 
+Topics: [[Interview Qs]]
 
