@@ -38,6 +38,58 @@ function expect(result) {
 }
 ```
 
+Then we can have add a `test()` function:
+
+```js
+// refactor tests so that each gets a title and we can easily track which one failed
+function test(title, callback) {
+ // wrap in try/catch so tests can continue even if one throws an error
+ try {
+	 callback()
+ } catch (error) {
+	 console.error(error)
+ }
+}
+```
+
+So now we have this as our test file:
+```js
+// both tested functions are broken now -- and now both tests are being run!
+const sum = (a, b) => a - b
+const subtract = (a, b) => a + b
+
+test("sum adds numbers", () => {
+ const result = sum(7, 3)
+ const expected = 10
+ expect(result).toBe(expected)
+})
+
+test("subtract subtracts numbers", () => {
+ const result = subtract(7, 3)
+ const expected = 4
+ expect(result).toBe(expected)
+})
+
+function test(title, callback) {
+ try {
+	 callback()
+	 console.log(`✔ ${title} passed.`)
+ } catch (error) {
+	 console.error(`❌ ${title} failed.`)
+	 console.error(error)
+ }
+}
+
+function expect(result) {
+ return {
+	 toBe(expected) {
+ if (result !== expected) {
+	 throw new Error(`${result} is not equal to ${expected}`)
+		 }
+	 },
+ }
+}
+```
 # ---
 
 Tags: #testing 
