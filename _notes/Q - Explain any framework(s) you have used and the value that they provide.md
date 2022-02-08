@@ -30,7 +30,7 @@ For example, let's consider React.
 -   Unopinionated. Because of React's flexibility, it can also hurt productivity because teams are required to pick their own patterns and libraries, whereas other opinionated frameworks enforce you build an app a certain way
 -   Reliant on the community for solutions since they aren't all baked into the core library
 -   Backed by a big tech company (some developers don't want to feel bolted to the whims of an entity like Facebook)
--   It was one of the first compnent libraries, so it has some old patterns that newer libraries have improved
+-   It was one of the first component libraries, so it has some old patterns that newer libraries have improved
 # ---
 
 Tags: #coding #interview

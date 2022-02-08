@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/el/9a7f           https://www.stucom.com/es/estudios/ciclos-formativos-grado-superior-barcelona/desarrollo-aplicaciones-web/
+/blog/my-post.php  /blog/my-post
+/news              /blog
+/cuties            https://www.petsofnetlify.com

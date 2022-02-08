@@ -1,5 +1,5 @@
 title:               dan m.
-include:             ['_pages']
+include:             ['_pages', '_redirects']
 exclude:             ['_includes/notes_graph.json', '_notes/TEMPLATES/*']
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
