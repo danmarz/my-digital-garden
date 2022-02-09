@@ -7,8 +7,11 @@ permalink: /learning
 📚Books and courses I have learned from since January 2020.
 
 § ― selected sections
-# January 2022
+# February 2022
 * <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer">The Pragmatic Programmer: From Journeyman to Master</a> by Andy Hunt  ―  currently 📖
+* <a href="https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/">Master NestJS - The JavaScript Node.js Framework</a> by <a href="https://github.com/piotr-jura-udemy">Piotr Jura</a>
+
+# January 2022
 * <a href="https://www.goodreads.com/book/show/54375336-the-coding-career-handbook-guides-principles-strategies-and-tactics">The Coding Career Handbook. Guides, Principles, Strategies, and Tactics – from Code Newbie to Senior Dev</a> by Shawn Swyx Wang
 * <a href="https://frontendmasters.com/courses/testing-practices-principles/">FrontendMasters: JavaScript Testing Practices and Principles</a> by <a href="https://twitter.com/kentcdodds">Kent C. Dodds</a>
 * <a href="https://www.justjavascript.com/">Just Javascript - Explore the JavaScript Universe</a> by <a href="https://github.com/gaearon">Dan Abramov</a>
