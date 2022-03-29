@@ -7,8 +7,11 @@ permalink: /learning
 📚Books and courses I have learned from since January 2020.
 
 § ― selected sections
+# March 2022
+* <a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">Can't Hurt Me: Master Your Mind and Defy the Odds</a> by David Goggins ―  currently 📖
+* <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People</a> by Aditya Y. Bhargava
+
 # February 2022
-* <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People</a> by Aditya Y. Bhargava ―  currently 📖
 * <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer">The Pragmatic Programmer: From Journeyman to Master</a> by Andy Hunt
 * <a href="https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/">Master NestJS - The JavaScript Node.js Framework</a> by <a href="https://github.com/piotr-jura-udemy">Piotr Jura</a>
 
