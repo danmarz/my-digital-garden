@@ -7,8 +7,11 @@ permalink: /learning
 📚Books and courses I have learned from since January 2020.
 
 § ― selected sections
+# April 2022
+ * <a href="https://www.goodreads.com/book/show/8473471-being-geek">Being Geek: The Software Developer's Career Handbook</a> by Michael Lopp ―  currently 📖
+
 # March 2022
-* <a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">Can't Hurt Me: Master Your Mind and Defy the Odds</a> by David Goggins ―  currently 📖
+* <a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me">Can't Hurt Me: Master Your Mind and Defy the Odds</a> by David Goggins
 * <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People</a> by Aditya Y. Bhargava
 
 # February 2022
