@@ -12,7 +12,28 @@ permalink: /
   This <span style="font-weight: bold">"digital garden 🌱"</span> is a place where I share my notes, thoughts and learning process. 
 </p>
 
-<p>Currently, I'm learning javascript for back-end development with Node.js. My  <a href="https://vault.danmarius.dev">notes</a> show my journey so far.</p>
+<p>Currently, I'm learning javascript for back-end development with Node.js, Microsoft Azure cloud offerings, a sprinkle of BigQuery, and a bunch others #AlwaysLearning. My  <a href="https://vault.danmarius.dev">notes</a> show my journey so far.</p>
+
+<p>
+<span style="font-weight: bold">Quick Meet?</span>
+</p>
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2AEQWENB7eCXHMyEsRi4TqUjKgoHWGqVET5AU8lt37uoM7YFq5ayvJGPmjSy_-hrw_BxTD5lxQ?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
 
 <br/>
 
