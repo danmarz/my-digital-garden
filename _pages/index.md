@@ -15,8 +15,8 @@ permalink: /
 <p>Currently, I'm learning javascript for back-end development with Node.js, Microsoft Azure cloud offerings, a sprinkle of BigQuery, and a bunch others #AlwaysLearning. My  <a href="https://vault.danmarius.dev">notes</a> show my journey so far.</p>
 
 <p>
-<span style="font-weight: bold">Quick Meet?</span>
-</p>
+<span style="font-weight: bold">Available for a quick Meet:</span>
+
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
@@ -34,7 +34,7 @@ permalink: /
 })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
-
+</p>
 <br/>
 
 > This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
