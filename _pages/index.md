@@ -15,8 +15,8 @@ permalink: /
 <p>Currently, I'm learning javascript for back-end development with Node.js, Microsoft Azure cloud offerings, a sprinkle of BigQuery, and a bunch others #AlwaysLearning. My  <a href="https://vault.danmarius.dev">notes</a> show my journey so far.</p>
 
 <p>
-<span style="font-weight: bold">Available for a quick Meet:</span>
-
+<span style="font-weight: bold">Quick Meet?</span>
+&nbsp;
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
