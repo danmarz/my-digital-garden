@@ -1,15 +1,16 @@
 # Redirects from what the browser requests to what we serve
-/el/9a7f           https://www.stucom.com/es/estudios/ciclos-formativos-grado-superior-barcelona/desarrollo-aplicaciones-web/
-/el/d596           https://sede.sepe.gob.es/es/portaltrabaja/resources/pdf/especialidades/IFCD54.pdf
-/el/40fa           https://www.credly.com/badges/53142ba6-ea7c-4de5-99c5-8b238786a997/public_url
-/el/9ce2           https://www.dropbox.com/s/i222k4b3uec33tp/Cambridge%20Assessment%20-%20C1.pdf
-/el/42f9           https://www.credly.com/badges/754d8ac6-e662-46b3-b1b6-d34792d5ba80/public_url
-/el/82fb           https://www.credly.com/badges/4569552d-c68e-43d8-873a-ecb06f45e583/public_url
-/el/2f48           https://www.credly.com/badges/fdff0b64-d194-4c9f-b0e6-525fbaa8a1d1/public_url
-/el/418d           https://www.credly.com/badges/a93be11d-2c0e-4871-9009-268656ee91d5/public_url
-/el/8c16           https://www.lpi.org/our-certifications/lpic-1-overview
-/el/e466           https://www.lpi.org/our-certifications/lpic-2-overview
-/el/44e4           https://www.lpi.org/our-certifications/devops-overview
-/el/875d           https://www.dropbox.com/s/amp1dgle90mve2l/certificat-ACTIC.pdf
-/el/4aad           https://www.idfo.com/origen-curso/vmware.-virtualitzacio/94
-/el/82e9           https://www.pue.es/cursos/python-institute/fundamentos-programacion-python-curso-oficial-python-institute-online
+
+/el/9a7f https://www.stucom.com/es/estudios/ciclos-formativos-grado-superior-barcelona/desarrollo-aplicaciones-web/
+/el/d596 https://sede.sepe.gob.es/es/portaltrabaja/resources/pdf/especialidades/IFCD54.pdf
+/el/40fa https://www.credly.com/badges/53142ba6-ea7c-4de5-99c5-8b238786a997/public_url
+/el/9ce2 https://www.dropbox.com/s/i222k4b3uec33tp/Cambridge%20Assessment%20-%20C1.pdf
+/el/42f9 https://www.credly.com/badges/754d8ac6-e662-46b3-b1b6-d34792d5ba80/public_url
+/el/82fb https://www.credly.com/badges/4569552d-c68e-43d8-873a-ecb06f45e583/public_url
+/el/2f48 https://www.credly.com/badges/fdff0b64-d194-4c9f-b0e6-525fbaa8a1d1/public_url
+/el/418d https://www.credly.com/badges/a93be11d-2c0e-4871-9009-268656ee91d5/public_url
+/el/8c16 https://www.dropbox.com/s/ixlmxyiyk20py3u/LPIC-1.pdf
+/el/e466 https://www.lpi.org/our-certifications/lpic-2-overview
+/el/44e4 https://www.lpi.org/our-certifications/devops-overview
+/el/875d https://www.dropbox.com/s/amp1dgle90mve2l/certificat-ACTIC.pdf
+/el/4aad https://www.idfo.com/origen-curso/vmware.-virtualitzacio/94
+/el/82e9 https://www.pue.es/cursos/python-institute/fundamentos-programacion-python-curso-oficial-python-institute-online
