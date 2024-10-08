@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Hey👋, 
-## I'm Dan.
+## I'm <a rel="me" href="https://mastodon.social/@dan_marius">Dan</a>.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   This <span style="font-weight: bold">"digital garden 🌱"</span> is a place where I share my notes, thoughts and learning process. 
